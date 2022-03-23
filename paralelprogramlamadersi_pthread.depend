@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1647862011 source:c:\users\abdullah\cplusp_pthread_parallel_programming_training\paralelprogramlamadersi_pthread\main.cpp
+	<iostream>
+	<stdio.h>
+	<pthread.h>
+	<sys/time.h>
+	<mutex>
+
